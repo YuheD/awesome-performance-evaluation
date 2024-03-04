@@ -1,10 +1,9 @@
 
 A Collection of papers in performance evaluation, including transferability/generalization gap/out-of-distribution error/calibration error prediction, model validation, et al.
-This repo is still in progress.
 
 ### 2024
 - Lifelong Benchmarks: Efficient Model Evaluation in an Era of Rapid Progress [[Paper]](https://arxiv.org/pdf/2402.19472.pdf)
-- 
+- Energy-based Automated Model Evaluation [[Paper]](http://arxiv.org/abs/2401.12689)
 
 ### 2023
 - Unsupervised Accuracy Estimation of Deep Visual Models using Domain-Adaptive Adversarial Perturbation without Source Samples [[ArXiv]](https://arxiv.org/pdf/2307.10062.pdf)
@@ -63,6 +62,7 @@ This repo is still in progress.
 - Learning inter-task transferability in the absence of target  task samples[[Paper]](https://www.cs.utexas.edu/~pstone/Papers/bib2html-links/AAMAS15-sinapov.pdf) 
 - Model selection for cross-lingual transfer[[Paper]](https://arxiv.org/abs/2010.06127)
 - ModelGiF: Gradient Fields for Model Functional Distance[[Paper]](https://github.com/zju-vipa/modelgif)
+- Predicting Out-of-Distribution Error with Confidence Optimal Transport [[Paper]](http://arxiv.org/abs/2302.05018)
 
 ### 2022
 - On the Relationship Between Explanation and Prediction: A Causal View [[ArXiv]](https://arxiv.org/abs/2212.06925)
@@ -93,6 +93,7 @@ This repo is still in progress.
 - Efficient Semantic Segmentation Backbone Evaluation for Unmanned Surface Vehicles based on Likelihood Distribution Estimation [[MSN]](https://ieeexplore.ieee.org/abstract/document/10076662)
 - ZooD: Exploiting Model Zoo for Out-of-Distribution Generalization [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/cd305fdee96836d5cc1de94577d71b61-Abstract-Conference.html)
 - Pre-Trained Model Reusability Evaluation for Small-Data Transfer Learning [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f308b5f207348484552997c536375654-Abstract-Conference.html)
+- Predicting Out-of-Distribution Error with the Projection Norm [[paper]](http://arxiv.org/abs/2202.05834)
 
 ### 2021
 - A Mathematical Framework for Quantifying Transferability in Multi-source Transfer Learning [[NeurIPS]](https://proceedings.neurips.cc/paper/2021/hash/db9ad56c71619aeed9723314d1456037-Abstract.html)
@@ -134,6 +135,7 @@ This repo is still in progress.
 - **[RKME]** Model reuse with reduced kernel mean embedding specification [[ArXiv]](https://arxiv.org/abs/2001.07135)
 - TASK2VEC: Task Embedding for Meta-Learning [[ICCV]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Achille_Task2Vec_Task_Embedding_for_Meta-Learning_ICCV_2019_paper.pdf)
 - Service Metric Prediction in Clouds using Transfer Learning [[DiVA]](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1368298&dswid=3495)
+- Predicting the Generalization Gap in Deep Networks with Margin Distributions [[Paper]](http://arxiv.org/abs/1810.00113)
 
 ### 2018
 - Taskonomy: Disentangling Task Transfer Learning [[CVPR Best Paper]](https://arxiv.org/abs/1804.08328)
