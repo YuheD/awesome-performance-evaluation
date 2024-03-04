@@ -114,6 +114,7 @@ A Collection of papers in performance evaluation, including transferability/gene
 - **LogME**: Practical Assessment of Pre-trained Models for Transfer Learning [[ICML]](https://arxiv.org/abs/2102.11005) [[PyTorch]](https://github.com/thuml/LogME)
 - **？[PARC]** Scalable Diverse Model Selection for Accessible Transfer Learning [[NeurIPS]](https://proceedings.neurips.cc/paper/2021/file/a1140a3d0df1c81e24ae954d935e8926-Paper.pdf) [[PyTorch]](https://github.com/dbolya/parc)
 - A linearized framework and a new benchmark for model selection for fine-tuning [[ArXiv]](https://arxiv.org/pdf/2102.00084.pdf)
+- Are Labels Always Necessary for Classifier Accuracy Evaluation? [[ICCV]](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_Are_Labels_Always_Necessary_for_Classifier_Accuracy_Evaluation_CVPR_2021_paper.pdf)
 
 ### 2020
 - Duality diagram similarity: a generic framework for initialization selection in task transfer learning [[ECCV]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710494.pdf)
@@ -125,6 +126,7 @@ A Collection of papers in performance evaluation, including transferability/gene
 - Source Model Selection for Deep Learning in the Time Series Domain [[IEEE Access]](https://ieeexplore.ieee.org/document/8949507)
 - [Ranking and rejecting of pre-trained deep neural networks in transfer learning based on separation index][[ArXiv]](https://arxiv.org/abs/2012.13717)
 - DEPARA: Deep Attribution Graph for Deep Knowledge Transferability [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Song_DEPARA_Deep_Attribution_Graph_for_Deep_Knowledge_Transferability_CVPR_2020_paper.pdf)
+-  Predicting neural network accuracy from weight [[Paper]](https://arxiv.org/pdf/2002.11448)
 
 ### 2019
 - TASK2VEC: Task Embedding for Meta-Learning [[ICCV]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Achille_Task2Vec_Task_Embedding_for_Meta-Learning_ICCV_2019_paper.pdf)
@@ -136,12 +138,17 @@ A Collection of papers in performance evaluation, including transferability/gene
 - **[RKME]** Model reuse with reduced kernel mean embedding specification [[ArXiv]](https://arxiv.org/abs/2001.07135)
 - TASK2VEC: Task Embedding for Meta-Learning [[ICCV]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Achille_Task2Vec_Task_Embedding_for_Meta-Learning_ICCV_2019_paper.pdf)
 - Service Metric Prediction in Clouds using Transfer Learning [[DiVA]](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1368298&dswid=3495)
-- Predicting the Generalization Gap in Deep Networks with Margin Distributions [[Paper]](http://arxiv.org/abs/1810.00113)
+- Predicting the Generalization Gap in Deep Networks with Margin Distributions [[ICLR]](http://arxiv.org/abs/1810.00113)
 
 ### 2018
 - Taskonomy: Disentangling Task Transfer Learning [[CVPR Best Paper]](https://arxiv.org/abs/1804.08328)
 - Dynamics and reachability of learning tasks[[Paper]](https://arxiv.org/abs/1810.02440)
+- Stronger generalization bounds for deep nets via a compression approach [[ICML]](http://proceedings.mlr.press/v80/arora18b/arora18b.pdf)
+
+### 2017
+-  Exploring generalization in deep learning [[NeurIPS]](http://papers.neurips.cc/paper/7176-exploring-generalization-in-deep-learning.pdf)
 
 ### 2016
 - **[2016]** Learning to Select Pre-trained Deep Representations with Bayesian Evidence Framework [[CVPR]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Kim_Learning_to_Select_CVPR_2016_paper.pdf)
+- Learning with rejection [[Paper]](https://cs.nyu.edu/~mohri/pub/rej.pdf)
 
