@@ -4,6 +4,7 @@ A Collection of papers in performance evaluation, including transferability/gene
 ### 2024
 - Lifelong Benchmarks: Efficient Model Evaluation in an Era of Rapid Progress [[Paper]](https://arxiv.org/pdf/2402.19472.pdf)
 - Energy-based Automated Model Evaluation [[Paper]](http://arxiv.org/abs/2401.12689)
+- Rethinking The Uniformity Metric in Self-Supervised Learning [[Paper]](http://arxiv.org/abs/2403.00642)
 
 ### 2023
 - Unsupervised Accuracy Estimation of Deep Visual Models using Domain-Adaptive Adversarial Perturbation without Source Samples [[ArXiv]](https://arxiv.org/pdf/2307.10062.pdf)
