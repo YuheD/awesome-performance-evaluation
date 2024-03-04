@@ -1,5 +1,5 @@
 
-A Collection of papers in performance evaluation, including transferability/generalization gap estimation, out-of-distributin error estimation, calibration error prediction, model validation, et al.
+A Collection of papers in performance evaluation, including transferability/generalization gap/out-of-distribution error/calibration error prediction, model validation, et al.
 This repo is still in progress.
 
 ### 2024
