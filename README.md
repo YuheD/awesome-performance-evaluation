@@ -1,5 +1,15 @@
+A Collection of papers in performance evaluation.
 
-A Collection of papers in performance evaluation, including transferability/generalization gap/out-of-distribution error/calibration error prediction, model validation, et al.
+
+### Involved Topics:
+- Transferability Estimation
+- Model/Dataset Vectorization
+- Model/Algorithm/Representation Evaluation
+- Generalization Gap Prediction
+- Out-of-distribution Error Prediction
+- Accuracy Prediction
+- Model Validation
+- Calibration Error Prediction
 
 ### 2024
 - Lifelong Benchmarks: Efficient Model Evaluation in an Era of Rapid Progress [[Paper]](https://arxiv.org/pdf/2402.19472.pdf)
