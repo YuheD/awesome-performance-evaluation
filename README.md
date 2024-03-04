@@ -127,6 +127,8 @@ A Collection of papers in performance evaluation, including transferability/gene
 - [Ranking and rejecting of pre-trained deep neural networks in transfer learning based on separation index][[ArXiv]](https://arxiv.org/abs/2012.13717)
 - DEPARA: Deep Attribution Graph for Deep Knowledge Transferability [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Song_DEPARA_Deep_Attribution_Graph_for_Deep_Knowledge_Transferability_CVPR_2020_paper.pdf)
 -  Predicting neural network accuracy from weight [[Paper]](https://arxiv.org/pdf/2002.11448)
+- Computing the testing error without a testing set [[CVPR]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Corneanu_Computing_the_Testing_Error_Without_a_Testing_Set_CVPR_2020_paper.pdf)
+- Fantastic generalization measures and where to find them [[ICLR]](https://arxiv.org/abs/1912.02178)
 
 ### 2019
 - TASK2VEC: Task Embedding for Meta-Learning [[ICCV]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Achille_Task2Vec_Task_Embedding_for_Meta-Learning_ICCV_2019_paper.pdf)
@@ -146,9 +148,15 @@ A Collection of papers in performance evaluation, including transferability/gene
 - Stronger generalization bounds for deep nets via a compression approach [[ICML]](http://proceedings.mlr.press/v80/arora18b/arora18b.pdf)
 
 ### 2017
--  Exploring generalization in deep learning [[NeurIPS]](http://papers.neurips.cc/paper/7176-exploring-generalization-in-deep-learning.pdf)
+- Exploring generalization in deep learning [[NeurIPS]](http://papers.neurips.cc/paper/7176-exploring-generalization-in-deep-learning.pdf)
+- Estimating accuracy from unlabeled data: A probabilistic logic approach [[NeurIPS]](http://papers.neurips.cc/paper/7023-estimating-accuracy-from-unlabeled-data-a-probabilistic-logic-approach.pdf)
 
 ### 2016
 - **[2016]** Learning to Select Pre-trained Deep Representations with Bayesian Evidence Framework [[CVPR]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Kim_Learning_to_Select_CVPR_2016_paper.pdf)
 - Learning with rejection [[Paper]](https://cs.nyu.edu/~mohri/pub/rej.pdf)
+- Estimating accuracy from unlabeled data: A bayesian approach [[ICML]](https://proceedings.mlr.press/v48/platanios16.html)
+  
+### 2004
+- Using model disagreement on unlabeled data to validate classification algorithms [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2004/file/92f54963fc39a9d87c2253186808ea61-Paper.pdf)
+
 
