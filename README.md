@@ -1,3 +1,5 @@
+
+
 A Collection of papers in performance evaluation.
 
 
@@ -5,17 +7,17 @@ A Collection of papers in performance evaluation.
 - Transferability Estimation
 - Model/Dataset Vectorization
 - Model/Algorithm/Representation Evaluation
-- Generalization Gap Prediction
+-  Generalization Gap Prediction
 - Out-of-distribution Error Prediction
 - Accuracy Prediction
 - Model Validation
 - Calibration Error Prediction
-
 ----
 ### 2024
 - Lifelong Benchmarks: Efficient Model Evaluation in an Era of Rapid Progress [[Paper]](https://arxiv.org/pdf/2402.19472.pdf)
 - Energy-based Automated Model Evaluation [[Paper]](http://arxiv.org/abs/2401.12689)
 - Rethinking The Uniformity Metric in Self-Supervised Learning [[Paper]](http://arxiv.org/abs/2403.00642)
+- Revisiting Disentanglement in Downstream Tasks: A Study on Its Necessity for Abstract Visual Reasoning [[Paper]](https://arxiv.org/pdf/2403.00352.pdf)
 
 ### 2023
 - Unsupervised Accuracy Estimation of Deep Visual Models using Domain-Adaptive Adversarial Perturbation without Source Samples [[ArXiv]](https://arxiv.org/pdf/2307.10062.pdf)
@@ -55,26 +57,30 @@ A Collection of papers in performance evaluation.
 - Guided Recommendation for Model Fine-Tuning [[CVPR]](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Guided_Recommendation_for_Model_Fine-Tuning_CVPR_2023_paper.html)
 - Quick-Tune: Quickly Learning Which Pretrained Model to Finetune and How [[ArXiv]](https://arxiv.org/abs/2306.03828)
 - Estimating the Transfer Learning Ability of a Deep Neural Networks by Means of Representations [[NCMLCR]](https://link.springer.com/chapter/10.1007/978-3-031-44865-2_50)
-- **?** Source Selection based on Diversity for Machine Learning [[Patent ]](https://www.freepatentsonline.com/20230316134.pdf)
+-  Source Selection based on Diversity for Machine Learning [[Patent ]](https://www.freepatentsonline.com/20230316134.pdf)
 - Efficient Prediction of Model Transferability in Semantic Segmentation Tasks [[ICIP]](https://ieeexplore.ieee.org/abstract/document/10222912)
-- **[Study]** The Performance of Transferability Metrics Does Not Translate to Medical Tasks [[MICCAI workshop]](https://link.springer.com/chapter/10.1007/978-3-031-45857-6_11)
+-  The Performance of Transferability Metrics Does Not Translate to Medical Tasks [[MICCAI workshop]](https://link.springer.com/chapter/10.1007/978-3-031-45857-6_11)
 - How to Estimate Model Transferability of Pre-Trained Speech Models? [[Interspeech]](https://arxiv.org/abs/2306.01015)
 - How to Determine the Most Powerful Pre-trained Language Model without Brute Force Fine-tuning? An Empirical Survey [[ArXiv]](https://arxiv.org/pdf/2312.04775.pdf)
 - Building a Winning Team: Selecting Source Model Ensembles using a Submodular Transferability Estimation Approach [[ICCV]](https://openaccess.thecvf.com/content/ICCV2023/html/B_Building_a_Winning_Team_Selecting_Source_Model_Ensembles_using_a_ICCV_2023_paper.html)
 - Guided recommendation for model fine-tuning[[Paper]](http://openaccess.thecvf.com/content/CVPR2023/html/Li_Guided_Recommendation_for_Model_Fine-Tuning_CVPR_2023_paper.html)
 - LOVM: Language-Only Vision Model Selection [[NeurIPSW]](https://arxiv.org/abs/2306.08893)
-  - zoro-shot performance
 - RankMe: Assessing the Downstream Performance of Pretrained Self-Supervised Representations by Their Rank [[ICML Oral]](https://openreview.net/forum?id=neTWpgvVbo)
 -  T-Measure: A Measure for Model Transferabilty [[Under Review]](https://openreview.net/forum?id=gLtHsY0zCC)
 - Using Representation Expressiveness and Learnability to Evaluate Self-Supervised Learning Methods [[TMLR]](https://openreview.net/pdf?id=BxdrpnRHNh)
 - Domain Adaptation for Network Performance Modeling with and without Labeled Data [[NOMS]](https://ieeexplore.ieee.org/abstract/document/10154428)
 - Content-Based Search for Deep Generative Models [[ArXiv]](https://arxiv.org/pdf/2210.03116.pdf)
-	- Generative models 
 -  GNNEvaluator: Evaluating GNN Performance On Unseen Graphs Without Labels [[NeurIPS]](https://arxiv.org/pdf/2310.14586.pdf)
 - Learning inter-task transferability in the absence of target  task samples[[Paper]](https://www.cs.utexas.edu/~pstone/Papers/bib2html-links/AAMAS15-sinapov.pdf) 
 - Model selection for cross-lingual transfer[[Paper]](https://arxiv.org/abs/2010.06127)
 - ModelGiF: Gradient Fields for Model Functional Distance[[Paper]](https://github.com/zju-vipa/modelgif)
 - Predicting Out-of-Distribution Error with Confidence Optimal Transport [[Paper]](http://arxiv.org/abs/2302.05018)
+- Gnnevaluator: Evaluating gnn performance on unseen graphs without labels [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/6a55f024db3f771194bdadc8f3a35381-Abstract-Conference.html)
+- Came: Contrastive automated model evaluation [[ICCV]](http://openaccess.thecvf.com/content/ICCV2023/html/Peng_CAME_Contrastive_Automated_Model_Evaluation_ICCV_2023_paper.html) 
+-  On the Importance of Feature Separability in Predicting Out-Of-Distribution Error [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/file/585e9cf25585612ac27b535457116513-Paper-Conference.pdf)
+- Characterizing out-of-distribution error via optimal transport [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/38fd51cf36f28566230a93a5fbeaabbf-Abstract-Conference.html)
+- What can we Learn by Predicting Accuracy? [[WACV]](https://openaccess.thecvf.com/content/WACV2023/html/Risser-Maroix_What_Can_We_Learn_by_Predicting_Accuracy_WACV_2023_paper.html)
+- Cifar-10-warehouse: Broad and more realistic testbeds in model generalization analysis [[Paper]](https://arxiv.org/abs/2310.04414)
 
 ### 2022
 - On the Relationship Between Explanation and Prediction: A Causal View [[ArXiv]](https://arxiv.org/abs/2212.06925)
@@ -96,16 +102,23 @@ A Collection of papers in performance evaluation.
 - Transferability Metrics for Selecting Source Model Ensembles [[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Agostinelli_Transferability_Metrics_for_Selecting_Source_Model_Ensembles_CVPR_2022_paper.pdf)
 - **[Study]** How stable are Transferability Metrics evaluations? [[ECCV]](https://arxiv.org/abs/2204.01403) [[TensorFlow]](https://github.com/google-research/google-research/tree/master/stable_transfer)
 - Pre-Trained Model Reusability Evaluation for Small-Data Transfer Learning [[NeurIPS]](https://openreview.net/forum?id=XY5g3mkVge) [[Codes]](https://github.com/candytalking/SynLearn.)
-- Neural Transferability: Current Pitfalls and Striving for Optimal Scores [[SSRN Under Review]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4196999)
+- Neural Transferability: Current Pitfalls and Striving for Optimal Scores [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4196999)
 - Ranking and Tuning Pre-trained Models: A New Paradigm for Exploiting Model Hubs [[JMLR]](https://www.jmlr.org/papers/volume23/21-1251/21-1251.pdf)
 - PACTran: PAC-Bayesian Metrics for Estimating the Transferability of Pretrained Models to Classification Tasks [[ECCV]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136940244.pdf) [[Codes]](https://github.com/google-research/pactran_metrics)
-- **?** Which Model to Transfer? Finding the Needle in the Growing Haystack [[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/html/Renggli_Which_Model_To_Transfer_Finding_the_Needle_in_the_Growing_CVPR_2022_paper.html)
+-  Which Model to Transfer? Finding the Needle in the Growing Haystack [[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/html/Renggli_Which_Model_To_Transfer_Finding_the_Needle_in_the_Growing_CVPR_2022_paper.html)
 - Evidence > Intuition: Transferability Estimation for Encoder Selection [[EMNLP]](https://arxiv.org/abs/2210.11255)
 - Not All Models Are Equal: Predicting Model Transferability in a Self-challenging Fisher Space [[ECCV]](https://link.springer.com/chapter/10.1007/978-3-031-19830-4_17)
 - Efficient Semantic Segmentation Backbone Evaluation for Unmanned Surface Vehicles based on Likelihood Distribution Estimation [[MSN]](https://ieeexplore.ieee.org/abstract/document/10076662)
 - ZooD: Exploiting Model Zoo for Out-of-Distribution Generalization [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/cd305fdee96836d5cc1de94577d71b61-Abstract-Conference.html)
 - Pre-Trained Model Reusability Evaluation for Small-Data Transfer Learning [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f308b5f207348484552997c536375654-Abstract-Conference.html)
 - Predicting Out-of-Distribution Error with the Projection Norm [[paper]](http://arxiv.org/abs/2202.05834)
+- Agreement-on-the-line: Predicting the performance of neural networks under distribution shift [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2022/file/7a8d388b7a17df480856dff1cc079b08-Paper-Conference.pdf)
+- Leveraging unlabeled data to predict out-of-distribution performance [[Paper]](https://arxiv.org/abs/2201.04234)
+- Estimating and Explaining Model Performance When Both Covariates and Labels Shift [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2022/file/4aa13186c795a52ba88f5b822f4b77eb-Paper-Conference.pdf)
+- Unsupervised and semi-supervised bias benchmarking in face recognition [[ECCV]](https://link.springer.com/chapter/10.1007/978-3-031-19778-9_17)
+- On the strong correlation between model invariance and generalization [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b3847cda0c8cc0cfcdacf462dc122214-Abstract-Conference.html)
+- Active surrogate estimators: An active learning approach to label-efficient model evaluation [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9b9cfd5428153ccfbd4ba34b7e007305-Abstract-Conference.html)
+- Predicting out-of-domain generalization with local manifold smoothness [[Paper]](https://arxiv.org/abs/2207.02093)
 
 ### 2021
 - A Mathematical Framework for Quantifying Transferability in Multi-source Transfer Learning [[NeurIPS]](https://proceedings.neurips.cc/paper/2021/hash/db9ad56c71619aeed9723314d1456037-Abstract.html)
@@ -121,11 +134,15 @@ A Collection of papers in performance evaluation.
 - Cats, not CAT scans: a study of dataset similarity in transfer learning for 2D medical image classification[[Paper]](https://arxiv.org/abs/2107.05940)
 - Analysis and Prediction of NLP models via Task Embeddings[[Paper]](https://arxiv.org/abs/2112.05647)
 - Inter-task similarity measure for heterogeneous  tasks[[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-98682-7_4)
-- **[NLeep]** Ranking Neural Checkpoints [[CVPR]](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Ranking_Neural_Checkpoints_CVPR_2021_paper.pdf)
-- **LogME**: Practical Assessment of Pre-trained Models for Transfer Learning [[ICML]](https://arxiv.org/abs/2102.11005) [[PyTorch]](https://github.com/thuml/LogME)
-- **？[PARC]** Scalable Diverse Model Selection for Accessible Transfer Learning [[NeurIPS]](https://proceedings.neurips.cc/paper/2021/file/a1140a3d0df1c81e24ae954d935e8926-Paper.pdf) [[PyTorch]](https://github.com/dbolya/parc)
+- Ranking Neural Checkpoints [[CVPR]](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Ranking_Neural_Checkpoints_CVPR_2021_paper.pdf)
+- LogME: Practical Assessment of Pre-trained Models for Transfer Learning [[ICML]](https://arxiv.org/abs/2102.11005) [[PyTorch]](https://github.com/thuml/LogME)
+-  Scalable Diverse Model Selection for Accessible Transfer Learning [[NeurIPS]](https://proceedings.neurips.cc/paper/2021/file/a1140a3d0df1c81e24ae954d935e8926-Paper.pdf) [[PyTorch]](https://github.com/dbolya/parc)
 - A linearized framework and a new benchmark for model selection for fine-tuning [[ArXiv]](https://arxiv.org/pdf/2102.00084.pdf)
 - Are Labels Always Necessary for Classifier Accuracy Evaluation? [[ICCV]](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_Are_Labels_Always_Necessary_for_Classifier_Accuracy_Evaluation_CVPR_2021_paper.pdf)
+- Predicting With Confidence on Unseen Distributions [[ICCV]](https://openaccess.thecvf.com/content/ICCV2021/papers/Guillory_Predicting_With_Confidence_on_Unseen_Distributions_ICCV_2021_paper.pdf)
+- What does rotation prediction tell us about classifier accuracy under varying testing environments?[[ICML]](https://proceedings.mlr.press/v139/deng21a.html)
+- Detecting errors and estimating accuracy on unlabeled data with self-training ensembles[[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2021/hash/7dd3ed2e12d7967b656d156d50308263-Abstract.html)
+- Ranking models in unlabeled new environments [[ICCV]](http://openaccess.thecvf.com/content/ICCV2021/html/Sun_Ranking_Models_in_Unlabeled_New_Environments_ICCV_2021_paper.html)
 
 ### 2020
 - Duality diagram similarity: a generic framework for initialization selection in task transfer learning [[ECCV]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710494.pdf)
@@ -133,7 +150,7 @@ A Collection of papers in performance evaluation.
 - Geometric Dataset Distances via Optimal Transport [[NeurIPS]](https://proceedings.neurips.cc/paper/2020/hash/f52a7b2610fb4d3f74b4106fb80b233d-Abstract.html)
 - Similarity of neural networks with gradients[[Paper]](https://arxiv.org/abs/2003.11498)
 - Measuring and Harnessing Transference in Multi-Task Learning [[Ar]](https://arxiv.org/abs/2010.15413)
-- **LEEP**: A New Measure to Evaluate Transferability of Learned Representations [[ICML]](https://arxiv.org/pdf/2002.12462) [[Slides]](https://dev.icml.cc/media/icml-2020/Slides/6289.pdf) [[PyTorch]](https://github.com/thuml/LogME)
+- LEEP: A New Measure to Evaluate Transferability of Learned Representations [[ICML]](https://arxiv.org/pdf/2002.12462) [[Slides]](https://dev.icml.cc/media/icml-2020/Slides/6289.pdf) [[PyTorch]](https://github.com/thuml/LogME)
 - Source Model Selection for Deep Learning in the Time Series Domain [[IEEE Access]](https://ieeexplore.ieee.org/document/8949507)
 - [Ranking and rejecting of pre-trained deep neural networks in transfer learning based on separation index][[ArXiv]](https://arxiv.org/abs/2012.13717)
 - DEPARA: Deep Attribution Graph for Deep Knowledge Transferability [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Song_DEPARA_Deep_Attribution_Graph_for_Deep_Knowledge_Transferability_CVPR_2020_paper.pdf)
@@ -146,9 +163,9 @@ A Collection of papers in performance evaluation.
 - Finding the Most Transferable Tasks for Brain Image Segmentation [[BIBM]](https://ieeelorieee.org/plconhe/79/proceeding)
 - aserstein Task Ebei for Measring Tas imilaitis [[ArXiv]](https://arxiv.org/abs/2301.00934) 0.17)
 - Zero-Shot Task Transfer
-- **[NCE]** Transferability and Hardness of Supervised Classification Tasks [[ICCV]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Tran_Transferability_and_Hardness_of_Supervised_Classification_Tasks_ICCV_2019_paper.pdf) 
-- **[H-Score]** An informationtheoretic approach to transferability in task transfer learning [[ICIP]](https://ieeexplore.ieee.org/document/8803726) [[Codes]](https://github.com/YaojieBao/An-Information-theoretic-Metric-of-Transferability)
-- **[RKME]** Model reuse with reduced kernel mean embedding specification [[ArXiv]](https://arxiv.org/abs/2001.07135)
+-  Transferability and Hardness of Supervised Classification Tasks [[ICCV]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Tran_Transferability_and_Hardness_of_Supervised_Classification_Tasks_ICCV_2019_paper.pdf) 
+-  An informationtheoretic approach to transferability in task transfer learning [[ICIP]](https://ieeexplore.ieee.org/document/8803726) [[Codes]](https://github.com/YaojieBao/An-Information-theoretic-Metric-of-Transferability)
+-  Model reuse with reduced kernel mean embedding specification [[ArXiv]](https://arxiv.org/abs/2001.07135)
 - TASK2VEC: Task Embedding for Meta-Learning [[ICCV]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Achille_Task2Vec_Task_Embedding_for_Meta-Learning_ICCV_2019_paper.pdf)
 - Service Metric Prediction in Clouds using Transfer Learning [[DiVA]](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1368298&dswid=3495)
 - Predicting the Generalization Gap in Deep Networks with Margin Distributions [[ICLR]](http://arxiv.org/abs/1810.00113)
@@ -159,15 +176,14 @@ A Collection of papers in performance evaluation.
 - Stronger generalization bounds for deep nets via a compression approach [[ICML]](http://proceedings.mlr.press/v80/arora18b/arora18b.pdf)
 
 ### 2017
-- Exploring generalization in deep learning [[NeurIPS]](http://papers.neurips.cc/paper/7176-exploring-generalization-in-deep-learning.pdf)
+-  Exploring generalization in deep learning [[NeurIPS]](http://papers.neurips.cc/paper/7176-exploring-generalization-in-deep-learning.pdf)
 - Estimating accuracy from unlabeled data: A probabilistic logic approach [[NeurIPS]](http://papers.neurips.cc/paper/7023-estimating-accuracy-from-unlabeled-data-a-probabilistic-logic-approach.pdf)
 
 ### 2016
-- **[2016]** Learning to Select Pre-trained Deep Representations with Bayesian Evidence Framework [[CVPR]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Kim_Learning_to_Select_CVPR_2016_paper.pdf)
+- Learning to Select Pre-trained Deep Representations with Bayesian Evidence Framework [[CVPR]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Kim_Learning_to_Select_CVPR_2016_paper.pdf)
 - Learning with rejection [[Paper]](https://cs.nyu.edu/~mohri/pub/rej.pdf)
 - Estimating accuracy from unlabeled data: A bayesian approach [[ICML]](https://proceedings.mlr.press/v48/platanios16.html)
-  
+
 ### 2004
 - Using model disagreement on unlabeled data to validate classification algorithms [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2004/file/92f54963fc39a9d87c2253186808ea61-Paper.pdf)
-
 
