@@ -1,13 +1,13 @@
 
 
-A Collection of papers in performance evaluation.
+A collection of papers in performance evaluation.
 
 
 ### Involved Topics:
 - Transferability Estimation
 - Model/Dataset Vectorization
 - Model/Algorithm/Representation Evaluation
--  Generalization Gap Prediction
+- Generalization Gap Prediction
 - Out-of-distribution Error Prediction
 - Accuracy Prediction
 - Model Validation
@@ -100,7 +100,7 @@ A Collection of papers in performance evaluation.
 - Frustratingly Easy Transferability Estimation [[ICML]](https://proceedings.mlr.press/v162/huang22d.html) [[Slides]](https://icml.cc/media/icml-2022/Slides/17386.pdf)
 - Transferability Estimation Using Bhattacharyya Class Separability [[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/html/Pandy_Transferability_Estimation_Using_Bhattacharyya_Class_Separability_CVPR_2022_paper.html)
 - Transferability Metrics for Selecting Source Model Ensembles [[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Agostinelli_Transferability_Metrics_for_Selecting_Source_Model_Ensembles_CVPR_2022_paper.pdf)
-- **[Study]** How stable are Transferability Metrics evaluations? [[ECCV]](https://arxiv.org/abs/2204.01403) [[TensorFlow]](https://github.com/google-research/google-research/tree/master/stable_transfer)
+-  How stable are Transferability Metrics evaluations? [[ECCV]](https://arxiv.org/abs/2204.01403) [[TensorFlow]](https://github.com/google-research/google-research/tree/master/stable_transfer)
 - Pre-Trained Model Reusability Evaluation for Small-Data Transfer Learning [[NeurIPS]](https://openreview.net/forum?id=XY5g3mkVge) [[Codes]](https://github.com/candytalking/SynLearn.)
 - Neural Transferability: Current Pitfalls and Striving for Optimal Scores [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4196999)
 - Ranking and Tuning Pre-trained Models: A New Paradigm for Exploiting Model Hubs [[JMLR]](https://www.jmlr.org/papers/volume23/21-1251/21-1251.pdf)
