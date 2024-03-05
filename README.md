@@ -13,6 +13,10 @@ A collection of papers in performance evaluation.
 - Model Validation
 - Calibration Error Prediction
 ----
+### Survey
+- A Survey on Evaluation of Out-of-Distribution Generalization [[Paper]](https://arxiv.org/pdf/2403.01874)
+- Which Model to Transfer? A Survey on Transferability Estimation [[Paper]](https://arxiv.org/pdf/2402.15231.pdf)
+---
 ### 2024
 - Lifelong Benchmarks: Efficient Model Evaluation in an Era of Rapid Progress [[Paper]](https://arxiv.org/pdf/2402.19472.pdf)
 - Energy-based Automated Model Evaluation [[Paper]](http://arxiv.org/abs/2401.12689)
