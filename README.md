@@ -12,6 +12,7 @@ A collection of papers in performance evaluation.
 - Accuracy Prediction
 - Model Validation
 - Calibration Error Prediction
+- Confidence Calibration
 ----
 ### Survey
 - A Survey on Evaluation of Out-of-Distribution Generalization [[Paper]](https://arxiv.org/pdf/2403.01874)
@@ -22,6 +23,8 @@ A collection of papers in performance evaluation.
 - Energy-based Automated Model Evaluation [[Paper]](http://arxiv.org/abs/2401.12689)
 - Rethinking The Uniformity Metric in Self-Supervised Learning [[Paper]](http://arxiv.org/abs/2403.00642)
 - Revisiting Disentanglement in Downstream Tasks: A Study on Its Necessity for Abstract Visual Reasoning [[Paper]](https://arxiv.org/pdf/2403.00352.pdf)
+- Revisiting Confidence Estimation: Towards Reliable Failure Prediction [[TPAMI]](https://arxiv.org/pdf/2403.02886.pdf) [[Code]](https://github.com/Impression2805/FMFP)
+	- Conference ver. :  Rethinking Confidence Calibration for Failure Prediction [[ECCV22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850512.pdf)
 
 ### 2023
 - Unsupervised Accuracy Estimation of Deep Visual Models using Domain-Adaptive Adversarial Perturbation without Source Samples [[ArXiv]](https://arxiv.org/pdf/2307.10062.pdf)
