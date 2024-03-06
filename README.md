@@ -17,6 +17,8 @@ A collection of papers in performance evaluation.
 ### Survey
 - A Survey on Evaluation of Out-of-Distribution Generalization [[Paper]](https://arxiv.org/pdf/2403.01874)
 - Which Model to Transfer? A Survey on Transferability Estimation [[Paper]](https://arxiv.org/pdf/2402.15231.pdf)
+-  A Survey of Language Model Confidence Estimation and Calibration [[Paper]](https://arxiv.org/abs/2311.08298)
+-  Calibration of Neural Networks [[Paper]](https://arxiv.org/abs/2303.10761)
 ---
 ### 2024
 - Lifelong Benchmarks: Efficient Model Evaluation in an Era of Rapid Progress [[Paper]](https://arxiv.org/pdf/2402.19472.pdf)
