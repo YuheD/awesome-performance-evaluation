@@ -28,6 +28,7 @@ A collection of papers in performance evaluation.
 - Revisiting Confidence Estimation: Towards Reliable Failure Prediction [[TPAMI]](https://arxiv.org/pdf/2403.02886.pdf) [[Code]](https://github.com/Impression2805/FMFP)
 	- Conference ver. :  Rethinking Confidence Calibration for Failure Prediction [[ECCV22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850512.pdf)
 - Tune without Validation: Searching for Learning Rate and Weight Decay on Training Sets [[Paper]](https://arxiv.org/pdf/2403.05532.pdf)
+- Evaluation of LLMs on Syntax-Aware Code Fill-in-the-Middle Tasks [[Paper]](https://arxiv.org/pdf/2403.04814.pdf)
 
 ### 2023
 - Unsupervised Accuracy Estimation of Deep Visual Models using Domain-Adaptive Adversarial Perturbation without Source Samples [[ArXiv]](https://arxiv.org/pdf/2307.10062.pdf)
