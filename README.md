@@ -132,6 +132,7 @@ A collection of papers in performance evaluation.
 - On the strong correlation between model invariance and generalization [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b3847cda0c8cc0cfcdacf462dc122214-Abstract-Conference.html)
 - Active surrogate estimators: An active learning approach to label-efficient model evaluation [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9b9cfd5428153ccfbd4ba34b7e007305-Abstract-Conference.html)
 - Predicting out-of-domain generalization with local manifold smoothness [[Paper]](https://arxiv.org/abs/2207.02093)
+- Predicting the Generalization Gap in Deep Models using Anchoring [[ICASSP]](https://ieeexplore.ieee.org/abstract/document/9747136)
 
 ### 2021
 - A Mathematical Framework for Quantifying Transferability in Multi-source Transfer Learning [[NeurIPS]](https://proceedings.neurips.cc/paper/2021/hash/db9ad56c71619aeed9723314d1456037-Abstract.html)
